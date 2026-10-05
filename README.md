@@ -17,3 +17,7 @@ Open **Upload Excel / CSV** and upload a sample. `Status Text` is the first colu
 | `samples/sample_claims_with_alerts.xlsx` | Pending total **$3,286.02**, paid total **$750.00**, one blank row, and two black-row alerts. Excel row 6 is solid black (`pending on $420.00`). Excel row 7 is dark (`paid $250.00`). |
 
 `Pending Amount` and `Paid Amount` are optional numeric columns. Selecting those instead of auto-detect produces the same totals.
+
+The Excel sample, after you generate the dashboard:
+
+![Dashboard after uploading the Excel sample](docs/sample-claims-dashboard.png)
