@@ -1,0 +1,11 @@
+Status Text,Claim ID,Claimant,Pending Amount,Paid Amount
+"pending on $2,866.02",CLM-4401,Avery North,2866.02,
+paid on $500.00,CLM-4402,Jordan Hale,,500.00
+pending no paid amnt,CLM-4403,Samira Quinn,,
+pending,CLM-4404,Riley Chen,,
+pending on $183.75,CLM-4405,Morgan Ellis,183.75,
+"paid $1,000.00",CLM-4406,Casey Bloom,,1000.00
+,,,,
+Office note: call the clinic next week,CLM-4407,Taylor Voss,,
+no paid amount,CLM-4408,Parker Singh,,
+pending on $75.50,CLM-4409,Jamie Ortiz,75.50,
