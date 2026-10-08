@@ -118,5 +118,4 @@ Pending and paid totals only include rows whose `include_pending` / `include_pai
 
 ## Suggested follow-ups for this repo
 
-- Add a short sample CSV under `samples/` so someone can try paste/upload without real claim data
 - Consider a thin test module for `extract_currency_amount` / `classify_claim_row` (pure functions already exist in `app.py`)
